@@ -9,8 +9,6 @@
 
 📧 Email : dustnrkfnfn@gamil.com
 
-📘Github : [https://github.com/dustnehowl](https://github.com/dustnehowl)
-
 # 🙋🏻‍♂️Introduction
 
 ## 깊이 탐구하는 개발자
