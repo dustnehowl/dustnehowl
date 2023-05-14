@@ -13,8 +13,6 @@
 
 # 🙋🏻‍♂️Introduction
 
----
-
 ## 깊이 탐구하는 개발자
 
 ### Computer Vision
@@ -35,7 +33,6 @@
 
 # 🧡 프로젝트 경험
 
----
 ### Hearty Fridge
 주제 : 기초생활수급자를 위한 공유냉장고 플랫폼
 
@@ -106,8 +103,6 @@
 결과 : 2022 한국 방송미디어 공학과 하계 학술대회 논문 투고
 
 # 📖 논문
-
----
 
 ****[얼굴인식을 통한 키오스크 시스템 설계 및 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11174569)****
 
