@@ -2,7 +2,8 @@
 
 ## 다양한 분야에 관심이 많은 BE, AI Developer
 
-![스크린샷 2023-05-14 오후 7.41.49.png](%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%20cbd16213e51f4b669b2959e43067ff39/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-05-14_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_7.41.49.png)
+<img width="581" alt="%E1%84~1" src="https://github.com/dustnehowl/dustnehowl/assets/39877181/d77b4e0f-5a70-40df-854a-548c701488f6">
+
 
 ### 배울 점이 많은 개발자를 꿈꾸는
 
@@ -22,9 +23,9 @@
 
 딥러닝과 인공지능에 관심을 가지고 깊이 **공부하기 위해 교내 Computer Vision Lab에 들어가게 되었고**, 현재 Pose Estimation을 이용한 3D Avatar 생성의 End-to-End 서비스 개발을 진행하고 있습니다.
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%20cbd16213e51f4b669b2959e43067ff39/Untitled.png)
+![Untitled](https://github.com/dustnehowl/dustnehowl/assets/39877181/7345d426-1f68-4fb2-a131-9b1a237f16e0)
 
-![asdfasdfasdfasdf.jpg](%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%20cbd16213e51f4b669b2959e43067ff39/asdfasdfasdfasdf.jpg)
+![asdfasdfasdfasdf](https://github.com/dustnehowl/dustnehowl/assets/39877181/615d71d1-50b0-4cfd-b200-78ddb62b89e7)
 
 ### AI-Develop
 
@@ -34,9 +35,9 @@
 
 최근에는 **사용자의 데이터를 이용해 유의미한 정보로 반환하는 비즈니스 로직을 작성하는 것과 일관적인 데이터를 안정적으로 제공하는 것에 관심이 생겨** Spring Framework를 이용하여 Backend 개발을 진행하고 있습니다.
 
-![aasddddd.png](%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%20cbd16213e51f4b669b2959e43067ff39/aasddddd.png)
+![aasddddd](https://github.com/dustnehowl/dustnehowl/assets/39877181/f4465ffb-8852-4a93-957f-2b9fcbdf9bf5)
 
-![fafafafafaf.png](%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%20cbd16213e51f4b669b2959e43067ff39/fafafafafaf.png)
+![fafafafafaf](https://github.com/dustnehowl/dustnehowl/assets/39877181/ab3bf641-9a3f-46e5-8ccd-0ff0542ee2de)
 
 ### Cloud-Service
 
