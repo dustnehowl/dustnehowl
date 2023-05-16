@@ -1,4 +1,4 @@
-<h1 align="center">Hi!</h1>
+<h1 align="center">Hi, NEXTERS!</h1>
 
 <p align="center">
     <b>Welcome to my Git!</b><br><br>
