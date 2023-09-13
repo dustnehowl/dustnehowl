@@ -4,7 +4,7 @@
     <b>Welcome to my Git!</b><br><br>
     <i>
         I'm Yeonsu Kim.<br>
-        Currently learning to walk in Backend Develop<br>
+        Currently learning to walk in AI Engineering<br>
     </i><br>
 </p>
 
@@ -14,10 +14,10 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/dustnehowl)
 
 ### Technologies & Frameworks
+[![Pytorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)](https://hub.docker.com/u/dustnehowl)
 [![SpringBoot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/dustnehowl)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/dustnehowl)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/dustnehowl)
-[![Pytorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)](https://hub.docker.com/u/dustnehowl)
 
 
 <!--
